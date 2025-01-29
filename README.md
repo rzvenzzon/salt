@@ -5,9 +5,11 @@ ibus-setup
 
 ## sudo raspi-config
 
+* sudo raspi-config
 * 2 Display Options
   * D3 VNC Resolution
 * 3 Interface Options
+  * I3 VNC
   * I5 I2C
 * 5 Localisation Options
   * L1 Locale - sv_SE.UTF8
