@@ -1,15 +1,15 @@
 # salt
 
-## Keyboard
+## Keyboard
 ibus-setup
 
-## sudo raspi-config
+## sudo raspi-config
 
-2. Display Options
+* 2 Display Options
   D3 VNC Resolution
-3. Interface Options
+* 3 Interface Options
   I5 I2C
-5. Localisation Options
+* 5 Localisation Options
   L1 Locale - sv_SE.UTF8
   L2 Timezone - Europe - Stockholm
   L3 Keyboard -
