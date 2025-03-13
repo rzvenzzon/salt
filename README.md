@@ -46,7 +46,7 @@ sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/mai
 ## Network - DHCP - Static Leases
 * 192.168.11.111 lysmarine
 
-##Network - DNS - General
+## Network - DNS - General
 * Inherited DNS servers - 192.168.1.1 - from - wan
 
 ## Status - Network - LAN - DHCP leases
