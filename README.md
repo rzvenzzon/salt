@@ -1,4 +1,6 @@
-# salt
+# Salt
+
+# Daspberry Pi
 
 ## Keyboard
 ibus-setup
@@ -23,3 +25,31 @@ sudo apt update
 sudo apt install pipx
 sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/main/install-online.sh     | sudo bash
 ```
+# Rut 200
+
+## Setup 
+
+* lan 192.168.11.11
+* dhsp 192.168.11.100
+* lease time infinite
+* ssid Salt
+* rms rms.teltonika-networks.com  15009
+
+## Wireless
+
+* general - country code - se
+* SSID Salt
+
+## Network - DHCP - Server Settings
+* Range: 192.168.11.100 - 192.168.11.254
+
+## Network - DHCP - Static Leases
+* 192.168.11.111 lysmarine
+
+##Network - DNS - General
+* Inherited DNS servers - 192.168.1.1 - from - wan
+
+## Status - Network - LAN - DHCP leases
+
+* http://192.168.11.11/status/network/lan/ipv4
+* http://192.168.11.11/network/dhcp_servers/static_leases/ipv4
