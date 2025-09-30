@@ -1,6 +1,6 @@
 # Salt
 
-# Daspberry Pi
+# Raspberry Pi
 
 ## Keyboard
 ibus-setup
