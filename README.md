@@ -53,3 +53,9 @@ sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/mai
 
 * http://192.168.11.11/status/network/lan/ipv4
 * http://192.168.11.11/network/dhcp_servers/static_leases/ipv4
+
+# Links
+* https://docs.hatlabs.fi/sh-rpi/docs/getting-started/
+* https://docs.hatlabs.fi/sh-rpi/docs/add-ons/can_hat/
+* https://docs.hatlabs.fi/sh-rpi/docs/add-ons/rs485_hat/
+* https://www.waveshare.com/wiki/2-CH_RS485_HAT
