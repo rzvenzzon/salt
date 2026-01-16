@@ -66,11 +66,11 @@ sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/mai
 ## SignalK
 * https://signalk.org/specification/1.7.0/doc/index.html
 * https://demo.signalk.org/documentation/modules.html
-
 ## BBN
-* https://github.com/bareboat-necessities
 * https://bareboat-necessities.github.io/
 * https://bareboat-necessities.github.io/my-bareboat/bareboat-os.html
+* https://github.com/bareboat-necessities
+* https://github.com/bareboat-necessities/bbn_compass
 ## HatLabs
 * https://docs.hatlabs.fi/sh-rpi/docs/getting-started/
 * https://docs.hatlabs.fi/sh-rpi/docs/add-ons/can_hat/
