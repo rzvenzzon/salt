@@ -54,8 +54,27 @@ sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/mai
 * http://192.168.11.11/status/network/lan/ipv4
 * http://192.168.11.11/network/dhcp_servers/static_leases/ipv4
 
+# Linux
+* sudo service NNNN stop
+
 # Links
+## OpenPlotter
+* https://openmarine.net/
+* https://forum.openmarine.net/index.php
+* https://openplotter.readthedocs.io/latest/index.html
+* https://github.com/openplotter
+## SignalK
+* https://signalk.org/specification/1.7.0/doc/index.html
+* https://demo.signalk.org/documentation/modules.html
+
+## BBN
+* https://github.com/bareboat-necessities
+* https://bareboat-necessities.github.io/
+* https://bareboat-necessities.github.io/my-bareboat/bareboat-os.html
+## HatLabs
 * https://docs.hatlabs.fi/sh-rpi/docs/getting-started/
 * https://docs.hatlabs.fi/sh-rpi/docs/add-ons/can_hat/
 * https://docs.hatlabs.fi/sh-rpi/docs/add-ons/rs485_hat/
 * https://www.waveshare.com/wiki/2-CH_RS485_HAT
+## Apps
+* https://www.zapfware.de/nmearemote/
