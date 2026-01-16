@@ -78,3 +78,7 @@ sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/mai
 * https://www.waveshare.com/wiki/2-CH_RS485_HAT
 ## Apps
 * https://www.zapfware.de/nmearemote/
+##
+* https://sailingpolars.com/
+* https://www.pbo.co.uk/reviews/boats/elan-31-the-elan-that-time-forgot
+* 
