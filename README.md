@@ -63,6 +63,9 @@ sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/mai
 * https://forum.openmarine.net/index.php
 * https://openplotter.readthedocs.io/latest/index.html
 * https://github.com/openplotter
+## OpenCpn
+* https://www.thehowarths.net/cruising-information/technical-notes/546-kap-charts-and-opencpn
+* https://openseamap.org/index.php?id=openseamap&no_cache=1&L=1
 ## SignalK
 * https://signalk.org/specification/1.7.0/doc/index.html
 * https://demo.signalk.org/documentation/modules.html
