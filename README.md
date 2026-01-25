@@ -83,5 +83,6 @@ sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/mai
 * https://www.zapfware.de/nmearemote/
 ##
 * https://sailingpolars.com/
+* http://jieter.github.io/orc-data/site/#NOR/NOR10750
 * https://www.pbo.co.uk/reviews/boats/elan-31-the-elan-that-time-forgot
 * 
