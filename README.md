@@ -69,6 +69,9 @@ sudo curl -L     https://raw.githubusercontent.com/hatlabs/SH-RPi-daemon/mai
 ## SignalK
 * https://signalk.org/specification/1.7.0/doc/index.html
 * https://demo.signalk.org/documentation/modules.html
+* https://demo.signalk.org/@signalk/freeboard-sk/assets/help/index.html#
+* https://github.com/SignalK/freeboard-sk
+* https://github.com/gregw/signalk-racer
 ## BBN
 * https://bareboat-necessities.github.io/
 * https://bareboat-necessities.github.io/my-bareboat/bareboat-os.html
